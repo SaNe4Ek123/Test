@@ -1,0 +1,29 @@
+﻿{
+  "id": "a4321790-c475-4d68-8a39-326fcbc62757",
+  "name": "Test App",
+  "publisher": "Test Publish",
+  "version": "1.0.0.0",
+  "brief": "Sample dependency app demo for auto-test",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "application": "21.0.0.0",
+  "dependencies": [
+    ],
+    "screenshots": [],
+    "platform": "21.0.0.0",
+    "idRanges": [
+      {
+        "from": 50000,
+        "to": 50099
+      }
+    ],
+    "target": "Cloud",
+    "contextSensitiveHelpUrl": "https://www.test.com",
+    "features": [ "TranslationFile" ],
+    "resourceExposurePolicy": {"allowDebugging": true, "allowDownloadingSource": true, "includeSourceInSymbolFile": true},
+    "runtime": "10.0"  
+  }

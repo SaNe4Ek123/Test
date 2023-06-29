@@ -1,0 +1,8 @@
+﻿{
+  "name": "Test App",
+  "publisher": "Test Publisher",
+  "supportedCountries": ["GB"], 
+  "mandatorySuffix": "",
+  "targetVersion": "10.0",
+  "baselinePackageCachePath": "./.appsourcecoppackage"
+}

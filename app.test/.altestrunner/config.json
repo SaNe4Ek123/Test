@@ -1,0 +1,16 @@
+{
+    "containerResultPath":  "",
+    "launchConfigName":  "Local Docker",
+    "securePassword":  "01000000d08c9ddf0115d1118c7a00c04fc297eb01000000bef05587031dd94482a03ddfa577a3b500000000020000000000106600000001000020000000f958c8c6ce342d18ed66426d526e48ab5bb4d2ec34f79dc378a8c22e3c5311c5000000000e8000000002000020000000e984d44679818532d23f0bcf2cc9f7be7301474d45f67e1bde4e41507a4832f510000000569d4809f9db41af2b66894c674f04f140000000ec27be2aa1b4b2dc78861752d76b9e916005f8902d8c750a0f46df6459ab4112e813e0dd5181c4f56dcfea5af115f47f22c3252a156ff8d8a0d791c32cc18892",
+    "userName":  "Admin",
+    "companyName":  "",
+    "testSuiteName":  "",
+    "vmUserName":  "",
+    "vmSecurePassword":  "",
+    "remoteContainerName":  "",
+    "dockerHost":  "",
+    "newPSSessionOptions":  "",
+    "testRunnerServiceUrl":  "",
+    "codeCoveragePath":  ".//.altestrunner//codecoverage.json",
+    "culture":  "en-US"
+}

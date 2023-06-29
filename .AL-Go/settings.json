@@ -1,0 +1,15 @@
+{
+  "country": "gb",
+  "appSourceCopMandatoryAffixes": [
+    ""
+  ],
+  "appFolders": [
+    "app"
+  ],
+  "testFolders": [
+    "app.test"
+  ],
+  "bcptTestFolders": [
+
+  ]
+}
